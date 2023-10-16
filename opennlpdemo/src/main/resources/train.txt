@@ -1,0 +1,6 @@
+greeting	hi. hello . hey . good morning good evening good afternoon   
+continue	ok wow oh ohh Thats great Good Really hmm hm hmmm hmmmmm that's nice to know great fine
+places	 Where can I go fishing ? Where ? Where's the best place ? Places to go fishing . tips on where to go . where can i go ?
+species	What kind of fish ? what species are there ? what fish can you catch ? types of fish . what do you get ? what is there ? what's there ?
+times	when is the best time to go ? whens best ? what time time of the day ? times to go
+complete	Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
